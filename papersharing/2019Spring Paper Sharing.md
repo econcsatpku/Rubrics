@@ -13,11 +13,11 @@
 #### week 3
 
 * 魏智德：distributed common knowledge
-* 吴怡凡：zero-knowledge contigent payment (zkcp)
+* 吴怡凡，陈宏崟：zero-knowledge contigent payment (zkcp)
 
 #### week 4
 
-* 吴怡凡，毕泉智，詹冠其：The Building Blocks of Economic Complexity
+* 毕泉智，詹冠其，吴怡凡：The Building Blocks of Economic Complexity
 * 周子鑫：A memristor-based long short term memory circuit
 
 #### week 5
