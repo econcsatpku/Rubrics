@@ -18,7 +18,7 @@
 #### week 5
 
 * 毕泉智，詹冠其：The Building Blocks of Economic Complexity
-* 周子鑫，魏智德：A memristor-based long short term memory circuit
+* 周子鑫：A memristor-based long short term memory circuit
 
 #### week 6
 
