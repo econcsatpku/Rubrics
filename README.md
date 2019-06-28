@@ -58,15 +58,15 @@
 
 **NIPS** 05.18, 2018
 
-**SODA** 07.05, 2018
+**SODA** abstract: 07.05(abstract), paper: 07.09, notification: Oct. 2019  https://www.siam.org/Conferences/CM/Conference/soda20
 
-**WINE**  07.27, 2018
+**WINE**  07.15, 2019  http://wine2019.cs.columbia.edu/
 
-**AAAI** 09.05, 2018
+**AAAI** abstract: 8.30, paper: 09.05, notification: 11.10, 2019  http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=90881&copyownerid=20061
 
-**ITCS** 09.07, 2018
+**ITCS** 09.09, notification: 10.31, 2019  http://itcs-conf.org/itcs20/itcs20-cfp.html
 
-**ICLR** 09.27, 2018
+**ICLR** 09.27, 2019   https://iclr.cc/Conferences/2020
 
 **STOC** 11.02, 2018
 
