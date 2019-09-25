@@ -68,8 +68,8 @@
 
 **ICLR** 09.27, 2019   https://iclr.cc/Conferences/2020
 
-**WWW** 10.14, 2010 (abstract 10.07, 2019; notification: 01.10, 2020) https://www2020.thewebconf.org/instructions
+**WWW** 10.14, 2019 (abstract 10.07, 2019; notification: 01.10, 2020) https://www2020.thewebconf.org/instructions
 
 **STOC** 11.04, 2019   http://acm-stoc.org/stoc2020/
 
-**AAMAS** 11.15, 2018 (abstract 11.12, 2019; notification 01.15, 2020)  https://aamas2020.conference.auckland.ac.nz/call-for-papers/
+**AAMAS** 11.15, 2019 (abstract 11.12, 2019; notification 01.15, 2020)  https://aamas2020.conference.auckland.ac.nz/call-for-papers/
