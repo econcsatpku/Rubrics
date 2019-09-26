@@ -44,13 +44,13 @@
 
 ## 各种会议的ddl
 
-2019年还没更新网页的会议列出了2018年的ddl
+2020年还没更新网页的会议列出了2019/18年的ddl
 
-**ICML** 01.23, 2019 (abstract 01.18, 2019)
+**IJCAI** 01.21, 2020 (abstract: 1.15, 2020)  https://ijcai20.org/
 
-**EC** 02.14, 2019
+**ICML** 02.07, 2020 (abstract 01.31, 2020) https://icml.cc/Conferences/2020/Dates
 
-**IJCAI** 02.19, 2019
+**EC** 02.12, 2020  http://ec20.sigecom.org/
 
 **FOCS** 04.01, 2019
 
@@ -68,13 +68,8 @@
 
 **ICLR** 09.27, 2019   https://iclr.cc/Conferences/2020
 
-**STOC** 11.02, 2018
+**WWW** 10.14, 2019 (abstract 10.07, 2019; notification: 01.10, 2020) https://www2020.thewebconf.org/instructions
 
-**WWW** 11.05, 2018 (abstract 10.29, 2018)
+**STOC** 11.04, 2019   http://acm-stoc.org/stoc2020/
 
-**AAMAS** 11.16, 2018 (abstract 11.12, 2018)
-
-
-
-
-
+**AAMAS** 11.15, 2019 (abstract 11.12, 2019; notification 01.15, 2020)  https://aamas2020.conference.auckland.ac.nz/call-for-papers/
